@@ -1,7 +1,7 @@
 ### OLÁ! Eu sou o Gabriel Mautone.
 
 - 🔭 Hoje estudo na PUC Minas - Analise de Desenvolvimento de Sistemas
-- 🌱 Cursos: TypeScript, HTML e CSS
+- 🌱 Cursos: TypeScript, Javascript, HTML e CSS
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmautone&show_icons=true&theme=dracula)
 
