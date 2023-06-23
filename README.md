@@ -1,4 +1,4 @@
-### OLÁ! Eu sou o Gabriel Mautone.
+### OLÁ! Eu sou o Gabriel Mautone.🖐
 
 - 🔭 Hoje estudo na PUC Minas - Analise de Desenvolvimento de Sistemas
 - 🌱 Cursos: TypeScript, Javascript, HTML e CSS
