@@ -3,7 +3,7 @@
 - 🔭 Estudante de Analise de Desenvolvimento de Sistemas - PUC MINAS
 - 🌱 Cursos: TypeScript, Javascript, HTML e CSS
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmautone&show_icons=true&theme=)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmautone&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
