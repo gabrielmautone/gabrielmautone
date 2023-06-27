@@ -3,7 +3,7 @@
 - 🔭 Estudante de Analise de Desenvolvimento de Sistemas - PUC MINAS
 - 🌱 Cursos: TypeScript, Javascript, HTML e CSS
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmautone&show_icons=true&theme=dracula)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmautone&show_icons=true&theme=codeSTACKr)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -14,7 +14,8 @@
   <img aling="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmautone&exclude_repo=github-readme-stats,gabrielmautone.github.io&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmautone&exclude_repo=github-readme-stats,gabrielmautone.github.io&theme=codeSTACKr)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielmautone&bg_color=0a0c10&color=ec688d&line=79dafa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielmautone&bg_color=0a0c10&color=e95e2d&line=f1e05a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
